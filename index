@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<header>
+   <h1>
+        Hello, I'm Zach
+   </h1>
+   <h3 style = "margin-left: 10px;">
+        here are some links:
+        <ul id  = "menu">
+            <li>
+                <a href = "https://github.com/zach00001/zach00001.git">
+                    github
+                </a>
+                <img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt = "github logo" style = "width:30px; height:30px;">
+            </li>
+            <li>
+                <a href = "mailto:zacharyburgess003@gmail.com">
+                    email
+                </a>
+                <img src = "https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-768x432.png" alt = "gmail logo" style = "width:55px; height:30px;">
+            </li>
+            <li>
+                <a href = "https://twitter.com/sauceboss001">
+                    twitter
+                </a>
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/300px-Twitter-logo.svg.png" alt = "twitter logo" style = "width:35px; height: 30px;">
+            </li>
+        </ul>
+   </h3>
+   <h3 style = "margin-left: 10px;">
+        and this is a little bit about me: 
+   </h3>
+</header>
+
+<body>
+    <h5 style = "margin-left: 20px;">
+        Me, personally: 
+    </h5>
+    <ul style = "margin-left: 45px;">
+        <li>I'm a Senior in High School</li>
+        <li>Starting this upcoming year, I will be pursuing a Computer Science degree</li>
+        <li>I am passionate about learning new technologies and building new projects</li>
+        <li>This website is my first project using HTML & CSS!</li>
+    </ul>
+    <h5 style = "margin-left: 20px;">
+        My academic acheivements:
+    </h5>
+    <ul style = "margin-left: 45px;">
+        <li>3.96 Cumulative Weighted GPA (as of halfway through Senior year)</li>
+        <li>4.60 Cumulative Weighted GPA (as of Senior year)</li>
+        <li>National Honors Society Scholar</li>
+    </ul>
+</body>
